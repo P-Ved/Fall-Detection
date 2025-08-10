@@ -18,5 +18,7 @@ Optimized for CPU-only environments for efficient and real-time deployment.
 
 ## 📂 Project Structure
 ├── Untitled20_final.ipynb # Main Jupyter Notebook with implementation
+
 ├── README.md # Project documentation
+
 ├── .gitignore # Ignored files for Git
