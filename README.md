@@ -22,3 +22,14 @@ Optimized for CPU-only environments for efficient and real-time deployment.
 ├── README.md # Project documentation
 
 ├── .gitignore # Ignored files for Git
+
+Upload your video file in the notebook environment.
+
+Run the cells to process the video and detect falls.
+
+The output video will be saved for download.
+
+📈 Model Workflow
+1.Video Input → 2. Frame Extraction → 3. Pose Detection / Object Detection →
+
+4.Fall Detection Logic → 5. Output Video with Results
